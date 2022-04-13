@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New on 採集人筆記</title>
+    <link>https://kadao9.github.io/tags/new/</link>
+    <description>Recent content in New on 採集人筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kadao9.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大嵙崁溪</title>
+      <link>https://kadao9.github.io/blog/test/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kadao9.github.io/blog/test/</guid>
+      <description>0806大嵙崁溪流域聯盟紀錄 20210806 鍾秀梅：枋橋文化協會，楠子溪 周銘賢、林書正、黃建一(大溪)
+源頭減量問題；
+都市下水道、圳道分流。讓我們更了解都市裏頭的水圳，下水道系統到底水到哪裡去？ 鶯歌、樹林 都市分流的問題與汙水處理
+ECO社群，LASS做水質、水量數據上的檢驗與視覺化；看大嵙崁溪、大漢溪水質水量不同區段的數據化呈現，資訊接露與大家同步
+介紹環境帶點科普出發，應該有些接受度。 環境感測、製作儀器、製造者 透過Maker技能，蒐集環境技能；可以喊出名聲的代表作 水盒子</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://kadao9.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://kadao9.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
