@@ -1,33 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>採集人筆記</title>
+    <title>採集筆記</title>
     <link>https://kadao9.github.io/</link>
-    <description>Recent content on 採集人筆記</description>
+    <description>Recent content on 採集筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kadao9.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>服務學習 閱讀</title>
+      <title>服務 學習的本質</title>
       <link>https://kadao9.github.io/blog/post-1/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kadao9.github.io/blog/post-1/</guid>
-      <description>論文主題： 塭仔圳的文化行動（題目暫定方向，之後有可能修改微調）
-研究生： 陳婷汝
-學校： 輔仁大學景觀設計研究所
-指導老師： 顏亮一
-研究目的：
-本研究目的在於探討2016年開始到2022年間，從塭仔圳反迫遷連線到成立塭仔圳在地服務與發展協會之間，這段時間各個運動參與者參與了不同形式的文化實踐，這些塭仔圳的文化行動中參與者的影響及轉變？想研究的面相包含：</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://kadao9.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://kadao9.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <description>第一章 服務─學習簡介 服務接受者為主要受益人)志願服務←社區服務→服務學習→實地教育→實習(服務提供者為主要受益人)
+ 志願服務、社區服務 聚焦餅且意圖嘉惠個人、組織或被服務的社區。是一種慈善的形式，在於提供服務，但沒有連結反思或學習的意圖。可以是可持續性的，但通常發生在一次性或偶發性的基礎上。
+  以服務學習者的觀點，志願服務被視為一種單向的、有點家長作風式的「感覺良好」的概念，這個概念暗示著對於現狀及依賴關係的維持及延續。
+  服務學習立基於以下的假設：經驗不必然帶來學習，而是經過設計以獲得特定學習成效的反思帶來的結果。因此，服務學習延伸了社區服務及志願服務的概念( Furco, 1996 )。</description>
     </item>
     
   </channel>
